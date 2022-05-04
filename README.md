@@ -1,7 +1,7 @@
 # POCS-based Clustering Algorithm 
 
-Clustering Algorithm based on Projection Onto Convex Set.
+Official Implementation of POCS-based Clustering Algorithm, a Clustering Method based on Projection Onto Convex Set.
 
 LA Tran
 
-Seoul, 2022.04.27
+Seoul, South Korea
