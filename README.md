@@ -16,8 +16,14 @@ Official Implementation of the POCS-based Clustering Algorithm, a Clustering Met
     
 2. Installation
 
-    (will be available soon)    
+    ```
+    pip install pocs-based-clustering
+    ```
+3. Test
 
+    ```
+    python test_pocs_based_clustering.py
+    ```
 ## III. Results
 
 Results on [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
