@@ -7,7 +7,6 @@ from pocs_based_clustering.tools import clustering
 
 if __name__ == '__main__':
 
-
 	# Generate Data
 
 	num_clusters = 10
