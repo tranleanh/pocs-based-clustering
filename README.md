@@ -6,9 +6,9 @@ Official Implementation of the POCS-based Clustering Algorithm, a Clustering Met
 
 ## I. Introduction
 
- - Paper: [POCS-based Clustering Algorithm](https://ieeexplore.ieee.org/abstract/document/9920762) (in Proceedings of The International Workshop on Intelligent Systems 2022 (IWIS 2022), Ulsan, South Korea, August 17-19, 2022)
+<!--- - Paper: [POCS-based Clustering Algorithm](https://ieeexplore.ieee.org/abstract/document/9920762) (in Proceedings of The International Workshop on Intelligent Systems 2022 (IWIS 2022), Ulsan, South Korea, August 17-19, 2022) --->
 
- - Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), [Dong-Chul Park](https://ieeexplore.ieee.org/author/37275453300) et al.
+ - Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), Henock Mamo Deberneh, [Dong-Chul Park](https://ieeexplore.ieee.org/author/37275453300).
  - Blog: (will be available soon)
 
 ## II. Usage
