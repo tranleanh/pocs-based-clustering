@@ -2,14 +2,12 @@
 
 Official Implementation of the POCS-based Clustering Algorithm, a Clustering Method based on Projection Onto Convex Set.
 
-<!--- Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), Henock Mamo Deberneh, [Dong-Chul Park](https://ieeexplore.ieee.org/author/37275453300). --->
-
 ## I. Introduction
 
 <!--- - Paper: [POCS-based Clustering Algorithm](https://ieeexplore.ieee.org/abstract/document/9920762) (in Proceedings of The International Workshop on Intelligent Systems 2022 (IWIS 2022), Ulsan, South Korea, August 17-19, 2022) --->
 
  - Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), [Dong-Chul Park](https://ieeexplore.ieee.org/author/37275453300) *et al.*
- - Blog: (will be available soon)
+ - Blog: [POCS-based Clustering Algorithm Explained (Medium)](https://tranlevision.medium.com/pocs-based-clustering-algorithm-explained-2f7d25183eff)
  - Algorithm pseudocode:
      <p align="center">
      <img src="docs/pocs-pseudo-code.png" width="600">
