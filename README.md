@@ -1,16 +1,16 @@
 # POCS-based Clustering Algorithm 
 
-Official Implementation of the POCS-based Clustering Algorithm, a Clustering Method based on Projection Onto Convex Set.
+Official Implementation of the POCS-based Clustering Algorithm, a Clustering Method based on Projection Onto Convex Set (POCS).
 
 ## I. Introduction
 
 <!--- - Paper: [POCS-based Clustering Algorithm](https://ieeexplore.ieee.org/abstract/document/9920762) (in Proceedings of The International Workshop on Intelligent Systems 2022 (IWIS 2022), Ulsan, South Korea, August 17-19, 2022) --->
 
- - Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), [Dong-Chul Park](https://ieeexplore.ieee.org/author/37275453300) *et al.*
- - Blog: [POCS-based Clustering Algorithm Explained (Medium)](https://tranlevision.medium.com/pocs-based-clustering-algorithm-explained-2f7d25183eff)
- - Algorithm pseudocode:
+ - Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en) *et al.*
+ <!--- - Blog: [POCS-based Clustering Algorithm Explained (Medium)](https://tranlevision.medium.com/pocs-based-clustering-algorithm-explained-2f7d25183eff) --->
+ - Algorithm:
      <p align="center">
-     <img src="docs/pocs-pseudo-code.png" width="600">
+     <img src="docs/pocs_based_clustering_pseudocode.png" width="750">
      </p>
 
 ## II. Usage
@@ -36,7 +36,7 @@ Results on [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
 <img src="docs/results_synthetic_datasets.jpg" width="1000">
 </p>
 
-
+<!---
 ### Citation
 ```
 @inproceedings{tran2022pocs,
@@ -48,9 +48,10 @@ Results on [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
   organization={IEEE}
 }
 ```
+--->
 
 Have fun!
 
 LA Tran
 
-Created: 04.2022
+<!--- Created: 04.2022 --->
