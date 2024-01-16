@@ -1,6 +1,6 @@
 # POCS-based Clustering Algorithm 
 
-Official Implementation of the POCS-based Clustering Algorithm, a Clustering Method based on Projection Onto Convex Set (POCS).
+Official implementation of the Projection Onto Convex Set (POCS)-based clustering algorithm.
 
 ## I. Introduction
 
@@ -36,9 +36,12 @@ Results on [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
 <img src="docs/results_synthetic_datasets.jpg" width="1000">
 </p>
 
-<!---
-### Citation
-```
+
+## Citation
+
+Please cite our works if you utilize any data from this work for your study.
+
+```bibtex
 @inproceedings{tran2022pocs,
   title={POCS-based Clustering Algorithm},
   author={Tran, Le-Anh and Deberneh, Henock M and Do, Truong-Dong and Nguyen, Thanh-Dat and Le, My-Ha and Park, Dong-Chul},
@@ -47,8 +50,15 @@ Results on [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
   year={2022},
   organization={IEEE}
 }
+
+@article{tran2024cluster,
+  title={Cluster Analysis via Projection onto Convex Sets},
+  author={Tran, Le-Anh and Kwon, Daehyun and Deberneh, Henock Mamo and Park, Dong-Chul},
+  journal={Intelligent Data Analysis},
+  year={2024},
+  publisher={IOS Press}
+}
 ```
---->
 
 Have fun!
 
