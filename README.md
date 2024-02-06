@@ -8,33 +8,41 @@
 
 Official implementation of the Projection Onto Convex Set (POCS)-based clustering algorithm.
 
-## I. Introduction
+## Introduction
 
 <!--- - Paper: [POCS-based Clustering Algorithm](https://ieeexplore.ieee.org/abstract/document/9920762) (in Proceedings of The International Workshop on Intelligent Systems 2022 (IWIS 2022), Ulsan, South Korea, August 17-19, 2022) --->
 
- - Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en) *et al.*
+ - Main Authors: [Le-Anh Tran](https://scholar.google.com/citations?user=WzcUE5YAAAAJ&hl=en), [Dong-Chul Park](https://scholar.google.com/citations?user=VZUH4sUAAAAJ&hl=en)
  <!--- - Blog: [POCS-based Clustering Algorithm Explained (Medium)](https://tranlevision.medium.com/pocs-based-clustering-algorithm-explained-2f7d25183eff) --->
  - Algorithm:
      <p align="center">
      <img src="docs/pocs_based_clustering_pseudocode.png" width="750">
      </p>
 
-## II. Usage
-1. Demo with Jupyter Notebook:
+## Package & Demo
 
-    Notebook: [pocs-based-clustering-demo.ipynb](https://github.com/tranleanh/pocs-based-clustering/blob/main/pocs-based-clustering-demo.ipynb)    
+### Package
+
+We release a package of this project on [PyPI](https://pypi.org/project/pocs-based-clustering/):
+
+```
+pip install pocs-based-clustering
+```
     
-2. Installation
+### Demo with Jupyter Notebook
 
-    ```
-    pip install pocs-based-clustering
-    ```
-3. Test
 
-    ```
-    python test_pocs_based_clustering.py
-    ```
-## III. Results
+```
+pocs-based-clustering-demo.ipynb
+```
+
+### Demo with Python
+
+```
+python test_pocs_based_clustering.py
+```
+    
+## Typical Results
 
 Results on [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
 
