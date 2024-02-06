@@ -1,9 +1,7 @@
 import time
 import matplotlib.pyplot as plt
-
 from sklearn.datasets import make_blobs
-# from pocs_based_clustering.tools import clustering
-from pocs_based_clusering_utils import pocs_clustering
+from pocs_clusering_utils import pocs_clustering
 
 
 if __name__ == '__main__':
