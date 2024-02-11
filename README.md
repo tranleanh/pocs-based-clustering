@@ -19,7 +19,7 @@ Official implementation of the Projection Onto Convex Set (POCS)-based clusterin
      <img src="docs/pocs_based_clustering_pseudocode.png" width="750">
      </p>
 
-## Package & Demo
+## Usage
 
 ### Package
 
