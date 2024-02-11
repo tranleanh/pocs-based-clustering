@@ -1,7 +1,7 @@
 # POCS-based Clustering Algorithm 
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://tranleanh.github.io/assets/pdf/IWIS_2022.pdf)
-[![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://ieeexplore.ieee.org/document/9920762)
+[![Paper](https://img.shields.io/badge/Conference-IEEE-blue)](https://ieeexplore.ieee.org/document/9920762)
 [![Blog](https://img.shields.io/badge/Blog-Medium-blue)](https://towardsdatascience.com/pocs-based-clustering-algorithm-explained-2f7d25183eff)
 [![Blog](https://img.shields.io/badge/Package-PyPI-white)](https://pypi.org/project/pocs-based-clustering/)
 
