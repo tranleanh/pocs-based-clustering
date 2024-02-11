@@ -29,20 +29,20 @@ We release a package of this project on [PyPI](https://pypi.org/project/pocs-bas
 pip install pocs-based-clustering
 ```
     
-### Demo with Jupyter Notebook
+### Demo via Installed Package
 
 
 ```
-pocs-based-clustering-demo.ipynb
+test_pocs_clustering_package.ipynb
 ```
 
-### Demo with Python
+### Demo via Local Script
 
 ```
-python test_pocs_based_clustering.py
+python test_pocs_clustering_local.py
 ```
     
-## Typical Results
+## Results
 
 Results on [Clustering basic benchmark](https://cs.joensuu.fi/sipu/datasets/)
 
